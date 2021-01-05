@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: https://suzyrhkr.github.io
+url: "https://suzyrhkr.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:

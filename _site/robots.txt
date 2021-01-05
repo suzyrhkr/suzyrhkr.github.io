@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://suzyrhkr.github.io/sitemap.xml
