@@ -1,53 +1,20 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- www.check-domains.com sitemap generator -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    {% for post in site.posts %}
+    <url>
+        <loc>{{ site.url }}{{ post.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endfor %}
 
-<url>
-   <loc>https://suzyrhkr.github.io/</loc>
-   <lastmod>2021-01-05T20:02:57+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>1.0000</priority>
-</url>
-<url>
-   <loc>https://suzyrhkr.github.io/feed.xml</loc>
-   <lastmod>2021-01-05T20:02:57+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://suzyrhkr.github.io/about/</loc>
-   <lastmod>2021-01-05T20:02:57+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://suzyrhkr.github.io/Python/Coding%20Test</loc>
-   <lastmod>2021-01-05T20:02:57+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://suzyrhkr.github.io/ML/CV</loc>
-   <lastmod>2021-01-05T20:02:57+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://suzyrhkr.github.io/ML/2020_AI</loc>
-   <lastmod>2021-01-05T20:02:57+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>0.8000</priority>
-</url>
-<url>
-   <loc>https://suzyrhkr.github.io/ML/2020_ML</loc>
-   <lastmod>2021-01-05T20:02:57+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>0.8000</priority>
-</url>
+    {% for page in site.pages %}
+    {% if page.layout != nil %}
+    {% if page.layout != 'feed' %}
+    <url>
+        <loc>{{ site.url }}{{ page.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endif %}
+    {% endif %}
+    {% endfor %}
 </urlset>
