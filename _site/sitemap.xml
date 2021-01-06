@@ -2,7 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://localhost:4000/2021/01/06/sample.html</loc>
+        <loc>http://localhost:4000/coding%20test/2021/01/06/testfile.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/coding%20test/2021/01/06/samplepost.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2020.%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5/2021/01/06/ml1.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/computer%20vision/2021/01/06/cv1.html</loc>
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/2020.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/2021/01/06/ai1.html</loc>
     </url>
     
 
@@ -10,7 +26,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/ML/2020_AI</loc>
+        <loc>http://localhost:4000/인공지능/2020AI</loc>
     </url>
     
     
@@ -18,7 +34,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/ML/2020_ML</loc>
+        <loc>http://localhost:4000/인공지능/2020ML</loc>
     </url>
     
     
@@ -42,7 +58,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/ML/CV</loc>
+        <loc>http://localhost:4000/인공지능/CV</loc>
     </url>
     
     

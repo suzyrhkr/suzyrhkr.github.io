@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sample post
+title: 샘플 포스
 tags: [test, sample]
+categories: [Coding Test]
 comments: true
-hide: true
 # 제목에 그림 추가되는 기능
 #feature-img: "assets/img/sample_feature_img.png"
 ---

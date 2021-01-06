@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Computer Vision
-permalink: '/ML/CV'
+permalink: '/인공지능/CV'
 hide: true
 ---
