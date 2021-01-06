@@ -26,7 +26,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/인공지능/AI</loc>
+        <loc>http://localhost:4000/ai/AI</loc>
     </url>
     
     
@@ -34,7 +34,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/인공지능/ML</loc>
+        <loc>http://localhost:4000/ai/ML</loc>
     </url>
     
     
@@ -58,7 +58,7 @@
     
     
     <url>
-        <loc>http://localhost:4000/인공지능/Computer Vision</loc>
+        <loc>http://localhost:4000/ai/Computer Vision</loc>
     </url>
     
     
