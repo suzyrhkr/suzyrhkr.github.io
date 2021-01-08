@@ -1,106 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
-    <url>
-        <loc>http://localhost:4000/coding%20test/2021/01/06/testfile.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/coding%20test/2021/01/06/samplepost.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/2020.%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5/2021/01/06/ml1.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/computer%20vision/2021/01/06/cv1.html</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/2020.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/2021/01/06/ai1.html</loc>
-    </url>
-    
+<urlset
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- www.check-domains.com sitemap generator -->
 
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/ai/AI</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/ai/ML</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/404.html</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/Python/Coding Test</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/ai/Computer Vision</loc>
-    </url>
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/about/</loc>
-    </url>
-    
-    
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/</loc>
-    </url>
-    
-    
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/search.html</loc>
-    </url>
-    
-    
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost:4000/tags.html</loc>
-    </url>
-    
-    
-    
-    
-    
+<url>
+   <loc>https://suzyrhkr.github.io/</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>1.0000</priority>
+</url>
+<url>
+   <loc>https://suzyrhkr.github.io/feed.xml</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://suzyrhkr.github.io/about/</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://suzyrhkr.github.io/Python/Coding%20Test</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://suzyrhkr.github.io/ai/Computer%20Vision</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://suzyrhkr.github.io/ai/AI</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://suzyrhkr.github.io/ai/ML</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://suzyrhkr.github.io/coding%20test/2021/01/06/testfile.html</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://suzyrhkr.github.io/coding%20test/2021/01/06/samplepost.html</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://suzyrhkr.github.io/2020.%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5/2021/01/06/ml1.html</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://suzyrhkr.github.io/computer%20vision/2021/01/06/cv1.html</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://suzyrhkr.github.io/2020.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5/2021/01/06/ai1.html</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://suzyrhkr.github.io/tags.html</loc>
+   <lastmod>2021-01-06T08:00:40+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.5120</priority>
+</url>
 </urlset>
